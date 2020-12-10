@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'b09486720f07d7' );
+define( 'DB_NAME', 'heroku_4e340b3b1708944' );
 
 /** MySQL database username */
 define( 'DB_USER', 'b09486720f07d7' );
